@@ -12,12 +12,7 @@ console.log(age);
 
 
 
-
 var name= "aditya";
 var age=19;
 console.log(name);
 console.log(age);
-
-for (let i = 1; i <= 5; i++) {
-  console.log(i);
-}
